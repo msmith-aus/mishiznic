@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mishiznic
-- 👀 I’m interested in c programming
-- 🌱 I’m currently learning mechatronic engineering
+- 👋 Hi, I’m @msmith
+- 👀 I’m interested in robots and improving people's lives
+- 🌱 I’m currently studying mechatronic engineering
 
 <!---
 mishiznic/mishiznic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
